@@ -28,6 +28,6 @@ I'm passionate about open-source, Django WebApp development, and AI. I'm current
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ahmed-khan096/)
-- [Tableau]((https://public.tableau.com/app/profile/ahmed.hassan4738/vizzes))
+- [Tableau](https://public.tableau.com/app/profile/ahmed.hassan4738/vizzes)
 
 Thanks for visiting my profile! 😄
