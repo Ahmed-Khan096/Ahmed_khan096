@@ -46,6 +46,10 @@ I'm passionate about open-source, Django WebApp development, and AI. I'm current
 - ----Slickcall product data analysis and development -----
 - ----Market Competitive Analysis----
 
+-  Robotic Process Automation Engineer ( RPA ) - Software Engineer at MEDCARE MSO GLOBAL ( United States )
+- ----Automating Task using Java Selenium 
+- ---- Utilizing Tools and methodologies to optimize the process and Bots workflow 
+
 ## Education
 --Bachelor of Science in Software Engineering (Python, AI/ML)  
 --Lahore Garrison University  (2020-2024)
